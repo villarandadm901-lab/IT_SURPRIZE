@@ -85,7 +85,7 @@ footer {
 <body><header>
   <h1>Happy Valentine's Day ❤️</h1>
   <p>To the most beautiful girl in my life, this small website is made just for you.</p>
-  <a href="message.html" style="text-decoration:none;">
+  <a href="https://villarandadm901-lab.github.io/Message-/" style="text-decoration:none;">
     <button>Click me 💌</button>
   </a>
 </header><section id="message" style="display:none;">
